@@ -43,8 +43,8 @@ After downloading, place the file in your project folder so it’s available to 
 
 ## Data Sources
 
-- **National Land Cover Database (2023)** – 30-meter resolution raster: United States Geological Survey (USGS) and the Multi-Resolution Land Characteristics Consortium (MRLC)
-- **Bay Area boundary shapefile** – American Community Survey Cartographic Boundary Files (cb_2023_us_county_500k)
+- **National Land Cover Database (2023)** – 30-meter resolution raster: United States Geological Survey (USGS) and the Multi-Resolution Land Characteristics Consortium (MRLC) https://www.usgs.gov/centers/eros/science/national-land-cover-database
+- **Bay Area boundary shapefile** – American Community Survey Cartographic Boundary Files (cb_2023_us_county_500k) https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html
 
 ## License
 
