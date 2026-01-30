@@ -169,7 +169,7 @@ try:
             cursor.updateRow(row)
     print("RGB values have been assigned to the 'RGB_Code' field.")
 except Exception as e:
-    print("error durig RGB update:", e)
+    print("error during RGB update:", e)
 
 
 # Asking user if they're running the script inside an ArcGIS project
@@ -217,3 +217,4 @@ if export_map == "yes":
         print("Failed to export map:", e)
 
 print("All done!")
+
